@@ -1,4 +1,3 @@
-#!/usr/bin/env perl
 use strict;
 use warnings;
 
@@ -7,11 +6,9 @@ use Test::Most;
 exit main(@ARGV);
 
 sub main {
-    BEGIN {
-        use_ok('Filter::CommaEquals', 'use Filter::CommaEquals')
-    };
+    BEGIN { use_ok( 'Filter::CommaEquals', 'use Filter::CommaEquals' ) };
 
-    my @array = (42, 1138, 96);
+    my @array = ( 42, 1138, 96 );
 
     ok(
         eval { @array ,= 433; },

@@ -4,7 +4,7 @@ Filter::CommaEquals - Adds support for ,= to any package or script
 
 # VERSION
 
-version 0.03
+version 1.01
 
 [![Build Status](https://travis-ci.org/gryphonshafer/Filter-CommaEquals.svg)](https://travis-ci.org/gryphonshafer/Filter-CommaEquals)
 [![Coverage Status](https://coveralls.io/repos/gryphonshafer/Filter-CommaEquals/badge.png)](https://coveralls.io/r/gryphonshafer/Filter-CommaEquals)

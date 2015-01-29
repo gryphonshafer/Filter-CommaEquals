@@ -26,6 +26,12 @@ __END__
 
 =end :badges
 
+=begin :prelude
+
+=for test_synopsis BEGIN { die "SKIP: skip Test::Synopsis because content is post-filter\n"; }
+
+=end :prelude
+
 =head1 SYNOPSIS
 
     use Filter::CommaEquals;

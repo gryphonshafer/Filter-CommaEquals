@@ -1,6 +1,8 @@
 Revision history for Filter::CommaEquals
 
 {{$NEXT}}
+
+1.01      2015-01-29 14:39:41-08:00 America/Los_Angeles
         - Implementing use of Dist::Zilla
 
 0.03      Wed Sep 25 10:00:58 PDT 2014

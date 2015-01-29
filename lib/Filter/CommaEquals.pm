@@ -4,11 +4,9 @@ package Filter::CommaEquals;
 use strict;
 use warnings;
 
-# VERSION
-
 use Filter::Simple;
 
-our $VERSION = '0.02';
+# VERSION
 
 FILTER_ONLY
     code => sub {

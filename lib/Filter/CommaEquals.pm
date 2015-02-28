@@ -84,5 +84,7 @@ You can also look for additional information at:
 * L<AnnoCPAN|http://annocpan.org/dist/Filter-CommaEquals>
 * L<Travis CI|https://travis-ci.org/gryphonshafer/Filter-CommaEquals>
 * L<Coveralls|https://coveralls.io/r/gryphonshafer/Filter-CommaEquals>
+* L<CPANTS|http://cpants.cpanauthors.org/dist/Filter-CommaEquals>
+* L<CPAN Testers|http://www.cpantesters.org/distro/F/Filter-CommaEquals.html>
 
 =cut

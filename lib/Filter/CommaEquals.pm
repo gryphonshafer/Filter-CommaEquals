@@ -1,6 +1,7 @@
 package Filter::CommaEquals;
 # ABSTRACT: Adds support for ,= to any package or script
 
+use 5.008;
 use strict;
 use warnings;
 

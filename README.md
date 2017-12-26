@@ -4,7 +4,7 @@ Filter::CommaEquals - Adds support for ,= to any package or script
 
 # VERSION
 
-version 1.01
+version 1.02
 
 [![Build Status](https://travis-ci.org/gryphonshafer/Filter-CommaEquals.svg)](https://travis-ci.org/gryphonshafer/Filter-CommaEquals)
 [![Coverage Status](https://coveralls.io/repos/gryphonshafer/Filter-CommaEquals/badge.png)](https://coveralls.io/r/gryphonshafer/Filter-CommaEquals)
@@ -60,6 +60,8 @@ You can also look for additional information at:
 - [AnnoCPAN](http://annocpan.org/dist/Filter-CommaEquals)
 - [Travis CI](https://travis-ci.org/gryphonshafer/Filter-CommaEquals)
 - [Coveralls](https://coveralls.io/r/gryphonshafer/Filter-CommaEquals)
+- [CPANTS](http://cpants.cpanauthors.org/dist/Filter-CommaEquals)
+- [CPAN Testers](http://www.cpantesters.org/distro/F/Filter-CommaEquals.html)
 
 # AUTHOR
 
@@ -67,7 +69,7 @@ Gryphon Shafer <gryphon@cpan.org>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2015 by Gryphon Shafer.
+This software is copyright (c) 2018 by Gryphon Shafer.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.

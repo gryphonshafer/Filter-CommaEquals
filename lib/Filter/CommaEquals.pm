@@ -80,9 +80,7 @@ You can also look for additional information at:
 
 =for :list
 * L<GitHub|https://github.com/gryphonshafer/Filter-CommaEquals>
-* L<CPAN|http://search.cpan.org/dist/Filter-CommaEquals>
 * L<MetaCPAN|https://metacpan.org/pod/Filter::CommaEquals>
-* L<AnnoCPAN|http://annocpan.org/dist/Filter-CommaEquals>
 * L<Travis CI|https://travis-ci.org/gryphonshafer/Filter-CommaEquals>
 * L<Coveralls|https://coveralls.io/r/gryphonshafer/Filter-CommaEquals>
 * L<CPANTS|http://cpants.cpanauthors.org/dist/Filter-CommaEquals>

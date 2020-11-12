@@ -22,8 +22,8 @@ __END__
 =begin :badges
 
 =for markdown
-[![Build Status](https://travis-ci.org/gryphonshafer/Filter-CommaEquals.svg)](https://travis-ci.org/gryphonshafer/Filter-CommaEquals)
-[![Coverage Status](https://coveralls.io/repos/gryphonshafer/Filter-CommaEquals/badge.png)](https://coveralls.io/r/gryphonshafer/Filter-CommaEquals)
+[![build](https://github.com/gryphonshafer/Filter-CommaEquals/workflows/build/badge.svg)](https://github.com/gryphonshafer/Filter-CommaEquals/actions?query=workflow%3Abuild)
+[![codecov](https://codecov.io/gh/gryphonshafer/Filter-CommaEquals/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/Filter-CommaEquals)
 
 =end :badges
 
@@ -81,8 +81,8 @@ You can also look for additional information at:
 =for :list
 * L<GitHub|https://github.com/gryphonshafer/Filter-CommaEquals>
 * L<MetaCPAN|https://metacpan.org/pod/Filter::CommaEquals>
-* L<Travis CI|https://travis-ci.org/gryphonshafer/Filter-CommaEquals>
-* L<Coveralls|https://coveralls.io/r/gryphonshafer/Filter-CommaEquals>
+* L<GitHub Actions|https://github.com/gryphonshafer/Filter-CommaEquals/actions>
+* L<Codecov|https://codecov.io/gh/gryphonshafer/Filter-CommaEquals>
 * L<CPANTS|http://cpants.cpanauthors.org/dist/Filter-CommaEquals>
 * L<CPAN Testers|http://www.cpantesters.org/distro/F/Filter-CommaEquals.html>
 

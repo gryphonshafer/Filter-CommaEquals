@@ -6,8 +6,8 @@ Filter::CommaEquals - Adds support for ,= to any package or script
 
 version 1.02
 
-[![Build Status](https://travis-ci.org/gryphonshafer/Filter-CommaEquals.svg)](https://travis-ci.org/gryphonshafer/Filter-CommaEquals)
-[![Coverage Status](https://coveralls.io/repos/gryphonshafer/Filter-CommaEquals/badge.png)](https://coveralls.io/r/gryphonshafer/Filter-CommaEquals)
+[![build](https://github.com/gryphonshafer/Filter-CommaEquals/workflows/build/badge.svg)](https://github.com/gryphonshafer/Filter-CommaEquals/actions?query=workflow%3Abuild)
+[![codecov](https://codecov.io/gh/gryphonshafer/Filter-CommaEquals/graph/badge.svg)](https://codecov.io/gh/gryphonshafer/Filter-CommaEquals)
 
 # SYNOPSIS
 
@@ -55,11 +55,9 @@ I realized writing ,= is faster (by 3 key presses) than push. Also, I'm lazy.
 You can also look for additional information at:
 
 - [GitHub](https://github.com/gryphonshafer/Filter-CommaEquals)
-- [CPAN](http://search.cpan.org/dist/Filter-CommaEquals)
 - [MetaCPAN](https://metacpan.org/pod/Filter::CommaEquals)
-- [AnnoCPAN](http://annocpan.org/dist/Filter-CommaEquals)
-- [Travis CI](https://travis-ci.org/gryphonshafer/Filter-CommaEquals)
-- [Coveralls](https://coveralls.io/r/gryphonshafer/Filter-CommaEquals)
+- [GitHub Actions](https://github.com/gryphonshafer/Filter-CommaEquals/actions)
+- [Codecov](https://codecov.io/gh/gryphonshafer/Filter-CommaEquals)
 - [CPANTS](http://cpants.cpanauthors.org/dist/Filter-CommaEquals)
 - [CPAN Testers](http://www.cpantesters.org/distro/F/Filter-CommaEquals.html)
 
@@ -69,7 +67,7 @@ Gryphon Shafer <gryphon@cpan.org>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2018 by Gryphon Shafer.
+This software is copyright (c) 2021 by Gryphon Shafer.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
